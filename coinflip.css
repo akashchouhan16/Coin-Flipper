@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(39, 133, 133);
+}
+#special {
+  padding-left: 35%;
+  padding-top: 10%;
+}
+.dark {
+  background-color: rgb(29, 29, 29);
+}
+a:hover {
+  text-decoration: none;
+}
